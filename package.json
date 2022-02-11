@@ -4,6 +4,8 @@
     "@discordjs/rest": "^0.3.0",
     "discord-api-types": "^0.26.1",
     "discord.js": "^13.6.0",
+    "math": "^0.0.3",
+    "Math": "^0.0.1-security",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2"
   },
